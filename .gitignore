@@ -57,7 +57,6 @@ src/
     ChatList.vue
     ChatInput.vue
     ChatMessage.vue
-backend/
   index.js               // express 代理 /api/chat
   .env                   // OPENAI_API_KEY
 你如果已经有项目，也可以只按这个思路“逐步迁移”，不用一次性全改完。
